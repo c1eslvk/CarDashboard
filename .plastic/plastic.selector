@@ -1,0 +1,4 @@
+repository "CarDashboard@c1eslvk@cloud"
+  path "/"
+    br "/main"
+    co "/main"
